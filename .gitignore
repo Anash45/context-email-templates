@@ -1,0 +1,6 @@
+/vendor
+test.php
+test.py
+.env
+composer.json
+composer.lock
